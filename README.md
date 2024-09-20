@@ -8,7 +8,6 @@ This project aims to architect an AI-powered Sustainability Advisor that **would
 
 Through the integration of advanced AI and **Bayesian Modelling**, the solution would enable dynamic risk assessment and forecasting, ensuring companies can make well-informed sustainability decisions that contribute to the global climate agenda.
 
-![Flowchart](images/flow.png)
 
 ## Problem Statement
 
@@ -18,6 +17,8 @@ Many companies struggle to align their operations with the sustainability goals 
 
 - **Bayesian Networks for Risk Assessment**: Probabilistic models to assess risks and uncertainties in carbon market investments and ESG factors.
 - **Delphi Method for Consensus Building**: A structured, multi-round Delphi method gathers expert opinions on ESG impacts and investment strategies, ensuring informed decision-making.
+  ![Flowchart](images/flow.png)
+  
 - **Data-Driven Recommendations**: The system analyzes historical data, economic, environmental, and social impacts to recommend investment strategies.
 - **Carbon Credit Analysis**: Assesses the quality of carbon credits and offsets based on environmental and economic criteria.
 - **Dynamic ESG Impact Analysis**: Quantifies the **social**, **economic**, and **environmental** impacts of recommended strategies on corporate sustainability goals.
