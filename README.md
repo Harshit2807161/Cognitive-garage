@@ -33,33 +33,32 @@ This network models how various factors such as employee well-being, workplace s
 - **Workplace Safety**: Accidents, casualties, and safety improvements.
 - **Business Ethics**: Corporate transparency and ethical governance.
 
+**Bayesian Network for Social Impact Calculation**
+![Bayesian Network for Social Impact Calculation](images/social.png)
+
 ### Economic Impact Network
 This network focuses on factors like profitability, credit health, and operational costs, helping companies understand how their sustainability efforts could influence their financial performance. Key variables include:
 - **Financial Health**: Profitability, credit strength, and financial development.
 - **Market Competitiveness**: Competitor analysis and market share.
 - **Cost Feasibility**: Labor, operation, and supply chain costs.
 
+**Bayesian Network for Economic Impact Calculation**
+![Bayesian Network for Economic Impact Calculation](images/econ.png)
+
 ### Environmental Impact Network
 The environmental network would help companies calculate the environmental implications of their actions, particularly in terms of resource management and pollution. Key variables include:
 - **Resource Management**: Efficiency in energy use, water management, and material use.
 - **Pollution and Emission**: CO2 levels, green innovation, and environmental competence.
 
-**Bayesian Network for Total Impact Calculation**
-![Bayesian Network for Total Impact Calculation](images/overall.png)
 
-The total impact was modelled as coming from majorly three spheres of impact: 
-
-i) Environmental 
 **Bayesian Network for Environmental Impact Calculation**
 ![Bayesian Network for Environmental Impact Calculation](images/envir.png)
 
-i) Economic 
-**Bayesian Network for Economic Impact Calculation**
-![Bayesian Network for Economic Impact Calculation](images/econ.png)
+These constitute to calculate the total impact:
 
-i) Soc 
-**Bayesian Network for Social Impact Calculation**
-![Bayesian Network for Social Impact Calculation](images/social.png)
+**Bayesian Network for Total Impact Calculation**
+![Bayesian Network for Total Impact Calculation](images/overall.png)
+
 
 *Description*: This diagram represents the Bayesian Network used to calculate the **total impact** by integrating **social**, **economic**, and **environmental** factors.
 
