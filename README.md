@@ -42,21 +42,21 @@ The environmental network would help companies calculate the environmental impli
 - **Pollution and Emission**: CO2 levels, green innovation, and environmental competence.
 
 **Bayesian Network for Total Impact Calculation**
-![Bayesian Network for Total Impact Calculation](./overall.png)
+![Bayesian Network for Total Impact Calculation](images/overall.png)
 
 The total impact was modelled as coming from majorly three spheres of impact: 
 
 i) Environmental 
 **Bayesian Network for Environmental Impact Calculation**
-![Bayesian Network for Environmental Impact Calculation](./envir.png)
+![Bayesian Network for Environmental Impact Calculation](images/envir.png)
 
 i) Economic 
 **Bayesian Network for Economic Impact Calculation**
-![Bayesian Network for Economic Impact Calculation](./econ.png)
+![Bayesian Network for Economic Impact Calculation](images/econ.png)
 
 i) Soc 
 **Bayesian Network for Social Impact Calculation**
-![Bayesian Network for Social Impact Calculation](./social.png)
+![Bayesian Network for Social Impact Calculation](images/social.png)
 
 *Description*: This diagram represents the Bayesian Network used to calculate the **total impact** by integrating **social**, **economic**, and **environmental** factors.
 
@@ -84,13 +84,13 @@ For certain risk factors, we used a **NoisyOR Operator** to simplify the conditi
 I employed bayesian networks in different settings to assess risk scores based on the conditional properties of various decisive parameters.
 
 1) **Bayesian Network for carbon offest risk:**
-![Bayesian Network for Carbon offset risk](./c_offset_r.png)
+![Bayesian Network for Carbon offset risk](images/c_offset_r.png)
 
 2) **Bayesian Network for carbon credit asset risk:**
-![Bayesian Network for Carbon credit asset risk](./cc_asset_risk.png)
+![Bayesian Network for Carbon credit asset risk](images/cc_asset_risk.png)
 
 4) **Bayesian Network for analysing risk:**
-![Bayesian Network for Carbon offset risk](./analyse_risk.png)
+![Bayesian Network for Carbon offset risk](images/analyse_risk.png)
 
 *Description*: This diagram illustrates how **Bayesian Networks** are used to **analyze risks** associated with carbon market investments, mapping out the dependencies and relationships between variables.
 
