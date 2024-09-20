@@ -8,6 +8,8 @@ This project aims to architect an AI-powered Sustainability Advisor that **would
 
 Through the integration of advanced AI and **Bayesian Modelling**, the solution would enable dynamic risk assessment and forecasting, ensuring companies can make well-informed sustainability decisions that contribute to the global climate agenda.
 
+![Flowchart](images/flow.png)
+
 ## Problem Statement
 
 Many companies struggle to align their operations with the sustainability goals laid out in the **Paris Agreement**. Achieving **net-zero emissions** often requires navigating complex regulatory frameworks and making strategic investments in carbon markets. However, the uncertainty and risks associated with these markets present a significant challenge. This project addresses this challenge by using **Bayesian Networks** to evaluate ESG factors and provide **recommendations** for carbon market investments that maximize sustainability impact.
