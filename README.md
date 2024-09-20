@@ -68,9 +68,6 @@ These constitute to calculate the total impact:
 
 The first step in constructing the Bayesian Networks involves mapping out input parameters and the decision-making process. This includes identifying key variables that influence the sustainability of a company and determining the relationships between these variables.
 
-- **Mathematical Models**: Techniques such as regression analysis, decision theory, and optimization methods were used to map the relationships between variables.
-- **Decision Tree Structure**: The decision-making process is represented as a decision tree, where input parameters are linked to sustainability outcomes. By simulating scenarios and quantifying the impacts of different sustainability strategies, companies can arrive at practices that are economically, socially, and environmentally optimal.
-  
 ### Bayesian Networks and Decision Modelling
 
 A **Bayesian Network** is a probabilistic graphical model used to represent uncertain domains. In this project, Bayesian Networks model how different variables (e.g., carbon credits, operational efficiency, and market risk) interact to influence sustainability outcomes. The goal is to compute **P(Cause | Evidence)**, or the posterior conditional probability of achieving a certain outcome given observed data.
