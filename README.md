@@ -42,7 +42,7 @@ The environmental network would help companies calculate the environmental impli
 - **Pollution and Emission**: CO2 levels, green innovation, and environmental competence.
 
 **Image: Bayesian Network for Total Impact Calculation**
-![Bayesian Network for Total Impact Calculation](./path_to_image_1.png)
+![Bayesian Network for Total Impact Calculation](./overall.png)
 
 *Description*: This diagram represents the Bayesian Network used to calculate the **total impact** by integrating **social**, **economic**, and **environmental** factors.
 
@@ -67,8 +67,16 @@ A **Bayesian Network** is a probabilistic graphical model used to represent unce
 ### NoisyOR Operator
 For certain risk factors, we used a **NoisyOR Operator** to simplify the conditional probability table. This was particularly useful when modeling complex relationships like system failures or the likelihood of environmental degradation due to multiple independent factors.
 
-**Image: Bayesian Network for Risk Analysis**
-![Bayesian Network for Risk Analysis](./path_to_image_2.png)
+I employed bayesian networks in different settings to assess risk scores based on the conditional properties of various decisive parameters.
+
+1) **Image: Bayesian Network for carbon offest risk:**
+![Bayesian Network for Carbon offset risk](./c_offset_r.png)
+
+2) **Image: Bayesian Network for carbon credit asset risk:**
+![Bayesian Network for Carbon credit asset risk](./cc_asset_risk.png)
+
+3) **Image: Bayesian Network for analysing risk:*
+![Bayesian Network for Carbon offset risk](./analyse_risk.png)
 
 *Description*: This diagram illustrates how **Bayesian Networks** are used to **analyze risks** associated with carbon market investments, mapping out the dependencies and relationships between variables.
 
